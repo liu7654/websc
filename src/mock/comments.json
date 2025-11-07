@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c1001",
+    "productId": "p1001",
+    "userId": "u1001",
+    "nickname": "演示用户",
+    "content": "音质不错，降噪也稳定。",
+    "rating": 5,
+    "createdAt": "2025-10-30T12:00:00+08:00"
+  },
+  {
+    "id": "c1002",
+    "productId": "p2001",
+    "userId": "u1001",
+    "nickname": "演示用户",
+    "content": "咖啡壶造型复古，很有仪式感。",
+    "rating": 4,
+    "createdAt": "2025-10-25T08:30:00+08:00"
+  }
+]

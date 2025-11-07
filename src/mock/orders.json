@@ -1,0 +1,24 @@
+[
+  {
+    "id": "o1001",
+    "userId": "u1001",
+    "status": "已支付",
+    "amount": 398,
+    "createdAt": "2025-11-01T09:30:00+08:00",
+    "items": [
+      { "id": "p1001", "name": "无线蓝牙耳机", "count": 2, "price": 199 }
+    ],
+    "addressId": "addr-1"
+  },
+  {
+    "id": "o1002",
+    "userId": "u1001",
+    "status": "待支付",
+    "amount": 699,
+    "createdAt": "2025-11-05T20:10:00+08:00",
+    "items": [
+      { "id": "p3001", "name": "运动透气跑鞋", "count": 1, "price": 699 }
+    ],
+    "addressId": "addr-1"
+  }
+]

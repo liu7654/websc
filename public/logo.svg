@@ -1,0 +1,13 @@
+﻿<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7a18" />
+      <stop offset="100%" stop-color="#af002d" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="20" fill="url(#grad)" />
+  <path d="M30 40h60l-8 40H38z" fill="#fff" opacity="0.92" />
+  <circle cx="50" cy="90" r="7" fill="#ffe066" />
+  <circle cx="78" cy="90" r="7" fill="#ffe066" />
+  <text x="60" y="30" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="18" fill="#fff">Web</text>
+</svg>
