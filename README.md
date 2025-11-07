@@ -412,5 +412,3 @@ MIT License
 开发文档详见 [OPTIMIZATION_SUMMARY.md](./OPTIMIZATION_SUMMARY.md)
 
 ---
-
-**⭐ 如果这个项目对你有帮助，请给个 Star！**
